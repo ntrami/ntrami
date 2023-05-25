@@ -5,6 +5,10 @@
         I'm currently ML/DL learner.<br>
         Open to collaborating on interesting projects.<br>
     </i><br>
+    <a href="https://www.facebook.com/nntram139" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/ntrami/" target="top"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:tramnnt.139@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.kaggle.com/tramnnt139" target="top"><img src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white"></a>
  <p>
 
 <h3 align="center">💻 Languages 💻</h3>
