@@ -32,6 +32,40 @@
        
 </div>
 <br>
+
+<h3 align="center">🧰 IDEs/Editors 🧰</h3>
+<br>
+<div align="center">
+    <div>
+        <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" height="25" />
+        <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual studio" height="25" />
+    </div>
+</div>
+<br>
+
+<details>
+<p align="center">
+  <a href="https://github.com/ntrami">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntrami&theme=transparent" />
+  </a>
+  <a href="https://github.com/ntrami">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ntrami&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/ntrami">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ntrami&theme=transparent" />
+  </a>
+  <a href="https://github.com/ntrami">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntrami&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/ntrami">
+    <img src="https://komarev.com/ghpvc/?username=ntrami&color=blue&style=flat)" />
+  </a>
+</p>
+
 <!--
 **ntrami/ntrami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
