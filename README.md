@@ -57,9 +57,7 @@
   <a href="https://github.com/ntrami">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ntrami&theme=transparent" />
   </a>
-  <a href="https://github.com/ntrami">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntrami&langs_count=10&exclude_repo=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+
 </p>
 </details>
 
@@ -83,4 +81,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -     <a href="https://www.facebook.com/nntram139" target="top"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+-   <a href="https://github.com/ntrami">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntrami&langs_count=10&exclude_repo=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
 -->
